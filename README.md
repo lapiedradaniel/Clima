@@ -2,7 +2,9 @@
 <br>
 
 <h1>
-         <img src="img/ImgClima.jpeg" >
+        <a href="https://lapiedradaniel.github.io/Clima/" target="_blank">
+        <img src="img/ImgClima.jpeg" alt="Clima Agora">
+</a>
 </h1>
 
 Explore as condições climáticas de qualquer cidade com o "Clima Agora". Basta digitar o nome da cidade, clicar em "Procurar" e obter instantaneamente a previsão do tempo, temperatura, umidade e velocidade do vento. Uma maneira fácil e eficaz de manter-se informado sobre as condições climáticas locais.
@@ -29,8 +31,17 @@ O "Clima Agora" utiliza a API de previsão do tempo da OpenWeather para obter da
 - Visualização Intuitiva: A interface do usuário é projetada para ser intuitiva, proporcionando uma experiência agradável para quem busca informações rápidas sobre o clima.
 
 
-<h1>Acesse o Site</h1>
-Confira o "Clima Agora" em https://lapiedradaniel.github.io/Clima/ para experimentar as funcionalidades em tempo real.
+<h2>Acesse o Site</h2>
+Confira o "Clima Agora" em  https://lapiedradaniel.github.io/Clima/ para experimentar as funcionalidades em tempo real.
 
 Tecnologias Utilizadas
-HTML, CSS, JavaScript: Essenciais para o desenvolvimento da interface amigável e interativa do "Clima Agora".
+- HTML 
+- CSS
+- JavaScript
+ Essenciais para o desenvolvimento da interface amigável e interativa do "Clima Agora".
+
+<div style="display: inline_block" align = "center"><br>
+  <img align="center" alt="Daniel-Js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Daniel-HTML" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Daniel-CSS" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">        
+</div>
