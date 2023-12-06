@@ -24,7 +24,9 @@ O projeto é composto por três arquivos principais:
 O "Clima Agora" utiliza a API de previsão do tempo da OpenWeather para obter dados precisos e em tempo real sobre as condições climáticas da cidade pesquisada. 
 
 <h3>Funcionalidades Principais</h3>
-- Pesquisa por Cidade: Os usuários podem inserir o nome da cidade desejada no campo de pesquisa e clicar no botão de busca.
+
+- Pesquisa por Cidade: Os usuários podem inserir o nome da cidade desejada no campo de pesquisa
+  e clicar no botão de busca.
 
 - Exibição de Dados: Após a pesquisa, o "Clima Agora" exibe informações essenciais, como temperatura, descrição do tempo, umidade, velocidade do vento e ícone representativo das condições climáticas.
 
@@ -34,7 +36,8 @@ O "Clima Agora" utiliza a API de previsão do tempo da OpenWeather para obter da
 <h2>Acesse o Site</h2>
 Confira o "Clima Agora" em  https://lapiedradaniel.github.io/Clima/ para experimentar as funcionalidades em tempo real.
 
-Tecnologias Utilizadas
+<h2>Tecnologias Utilizadas</h2>
+
 - HTML 
 - CSS
 - JavaScript
