@@ -1,6 +1,6 @@
-<a href="https://lapiedradaniel.github.io/Clima/" target="_blank" style="text-decoration: none; color: inherit;">
-  <h1 align="center">Clima Agora</h1>
-</a>
+
+
+ #  <div align="center" > <a href="https://lapiedradaniel.github.io/Clima/" target="_blank"> Clima Agora <a/></div>
 
 <br>
 
